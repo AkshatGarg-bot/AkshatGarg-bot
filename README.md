@@ -37,6 +37,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatGarg-bot)](https://github.com/AkshatGarg-bot/github-readme-stats)
 
+<!-- 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkshatGarg-bot&include_all_commits=true&show_icons=true&bg_color=70,36D1DC,5B86E5&title_color=fff&text_color=fff&icon_color=fff"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatGarg-bot&layout=compact&bg_color=30,36D1DC,5B86E5&title_color=fff&text_color=fff" /> -->
 
 ### Connect with me
 <a href="https://github.com/AkshatGarg-bot"><img height = 50 src="https://img.icons8.com/nolan/50/github.png"/></a>
