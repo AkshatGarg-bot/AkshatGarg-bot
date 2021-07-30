@@ -32,11 +32,11 @@
 <img height = 50 width = 80 src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" />&nbsp;
 <img height = 50 width = 80 src="https://ubiq.co/database-blog/wp-content/uploads/2020/10/mysql-workbench-alternatives.png" />
 ### 
-
+<!-- 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshatGarg-bot&show_icons=true&theme=dark);
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatGarg-bot)](https://github.com/AkshatGarg-bot/github-readme-stats)
-
+ -->
 
 ### Connect with me
 <a href="https://github.com/AkshatGarg-bot"><img height = 50 src="https://img.icons8.com/nolan/50/github.png"/></a>
