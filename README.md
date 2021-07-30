@@ -1,9 +1,4 @@
-### Hi there 👋
-
-
-**AkshatGarg-bot/AkshatGarg-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋 I am Akshat Garg
 
 - 🤓 Studying Computer Science Engineering at [IIIT Bangalore](https://www.iiitb.ac.in/). 
 - 🔭 I’m currently working on video streaming app
