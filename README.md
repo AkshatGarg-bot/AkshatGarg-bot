@@ -40,6 +40,5 @@
 
 ### Connect with me
 <a href="https://github.com/AkshatGarg-bot"><img src="https://img.icons8.com/nolan/50/github.png"/></a>
-<a href="https://www.instagram.com/krazy_someone/"><img src=https://img.icons8.com/office/16/000000/instagram-new.png"/></a>
-
+<a href="https://www.instagram.com/krazy_someone/"><img src = "https://icons8.com/icon/48839/instagram-logo" /></a>
 
