@@ -33,7 +33,7 @@
 <img height = 50 width = 80 src="https://ubiq.co/database-blog/wp-content/uploads/2020/10/mysql-workbench-alternatives.png" />
 ### 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshatGarg-bot&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshatGarg-bot&show_icons=true&theme=dark);
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatGarg-bot)](https://github.com/AkshatGarg-bot/github-readme-stats)
 
