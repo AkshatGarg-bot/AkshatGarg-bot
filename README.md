@@ -16,11 +16,15 @@
 <img height = 50 width = 50 src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>&nbsp;
 <img height = 50 width = 50 src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>&nbsp;
 <img height = 50 width = 50 src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>&nbsp;
-<img height = 50 width = 50 src="https://img.icons8.com/color/48/000000/css3.png"/>&nbsp;
+<img height = 50 width = 50 src="https://img.icons8.com/color/48/000000/css3.png"/>
 
 ### Framework and Libraries
-opencv,react,node,springboot
-
+<img height = 50 width = 50 src="https://img.icons8.com/color/48/000000/opencv.png"/>&nbsp;
+<img height = 50 width = 50 src="https://img.icons8.com/ultraviolet/48/000000/react--v2.png"/>&nbsp;
+<img height = 50 width = 50 src="https://img.icons8.com/color/48/000000/nodejs.png"/>&nbsp;
+<img height = 50 width = 50 src="https://img.icons8.com/color/48/000000/spring-logo.png"/>&nbsp;
+<img height = 50 width = 50 src="https://www.onlogic.com/company/io-hub/wp-content/uploads/2013/07/socket-io-logo.jpg" />&nbsp;
+<img height = 50 width = 50 src="https://athulmr.com/fastest-way-to-create-rest-api-for-crud-operations/rest-api-crud-operations_l.webp" />
 ### Database
 mysql,mysqlworkbench
 
