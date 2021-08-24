@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning video compression algorithms
 - 🤔 I’m looking to contribute for open sources.
 - 💼 Implemented a research paper related to [residual cache](https://github.com/AkshatGarg-bot/ResidueCache).
-- 💼 Currently working as a intern in [Turnera Tech](https://turneratech.com/).
+- 💼 Worked as a intern in [Turnera Tech](https://turneratech.com/).
 - ⚡ Fun fact: I am not a bot.
 - 👉🏻[Portfolio](https://akshatgarg-bot.github.io/)
 
