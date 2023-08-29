@@ -5,7 +5,7 @@
 - 🔭 I’m currently working Machine Learnirng
 - 🌱 I’m currently learning video compression algorithms
 - 🤔 I’m looking to contribute for open sources.
-- 💼 Worked as a intern in [Adobe](adobe.com/in/).
+- 💼 Worked as a research-intern in [Adobe](adobe.com/in/).
 - ⚡ Fun fact: I am not a bot.
 
 ### Languages 
